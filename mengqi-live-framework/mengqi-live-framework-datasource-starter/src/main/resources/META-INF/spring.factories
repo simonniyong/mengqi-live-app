@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.idea.huyu.live.framework.datasource.starter.config.ShardingJdbcDatasourceAutoInitConnectionConfig

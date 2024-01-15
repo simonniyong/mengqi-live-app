@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.idea.huyu.live.framework.redis.starter.config.RedisConfig,\
+  org.idea.huyu.live.framework.redis.starter.key.UserProviderCacheKeyBuilder
